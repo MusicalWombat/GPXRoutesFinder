@@ -1,154 +1,157 @@
-[
-  {
-    "Name": "Grants Picnic Ground",
-    "Latitude": -37.887529,
-    "Longitude": 145.369987,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 1
-  },
-  {
-    "Name": "1000 Steps",
-    "Latitude": -37.891008,
-    "Longitude": 145.317125,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 2
-  },
-  {
-    "Name": "Kelly's'",
-    "Latitude": -37.8471334,
-    "Longitude": 145.360202,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 3
-  },
-  {
-    "Name": "Olinda Botanical Gardens",
-    "Latitude": -37.8521661,
-    "Longitude": 145.367394,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 4
-  },
-  {
-    "Name": "Sassafras Village Green",
-    "Latitude": -37.8629059,
-    "Longitude": 145.3531664,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 5
-  },
-  {
-    "Name": "Silvan Dam Lookout",
-    "Latitude": -37.8180749,
-    "Longitude": 145.366881,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 6
-  },
-  {
-    "Name": "Lysterfield Park Main Carpark",
-    "Latitude": -37.965830000000004,
-    "Longitude": 145.30293,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 7
-  },
-  {
-    "Name": "Lysterfield Park Hallam North Rd Carpark",
-    "Latitude": -37.95454,
-    "Longitude": 145.28319000000002,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 8
-  },
-  {
-    "Name": "Birdsland Inner Carpark",
-    "Latitude": -37.9236,
-    "Longitude": 145.33699000000001,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 9
-  },
-  {
-    "Name": "Birdsland Outer Carpark",
-    "Latitude": -37.91877,
-    "Longitude": 145.34155,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 10
-  },
-  {
-    "Name": "Bottom of Glasgow Rd",
-    "Latitude": -37.83155,
-    "Longitude": 145.33374,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 11
-  },
-  {
-    "Name": "The Basin Theatre",
-    "Latitude": -37.85201,
-    "Longitude": 145.33165000000002,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 12
-  },
-  {
-    "Name": "Alfred Nicholas Memorial Gardens",
-    "Latitude": -37.877100000000006,
-    "Longitude": 145.35656,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 13
-  },
-  {
-    "Name": "Ferny Creek Recreation Reserve",
-    "Latitude": -37.875370000000004,
-    "Longitude": 145.34641000000002,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 14
-  },
-  {
-    "Name": "Kalorama Oval",
-    "Latitude": -37.8162,
-    "Longitude": 145.37919000000002,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 15
-  },
-  {
-    "Name": "UFG Station Carpark",
-    "Latitude": -37.89276,
-    "Longitude": 145.3068,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 16
-  },
-  {
-    "Name": "Doongalla Picnic Ground",
-    "Latitude": -37.847460000000005,
-    "Longitude": 145.34371000000002,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 17
-  },
-  {
-    "Name": "One Tree Hill carpark",
-    "Latitude": -37.87238,
-    "Longitude": 145.31907,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 18
-  },
-  {
-    "Name": "Silvan Reservoir Carpark",
-    "Latitude": -37.82473,
-    "Longitude": 145.40423,
-    "Radius": 200.0,
-    "UseStart": true,
-    "Id": 19
-  }
-]
+{
+  "Version": "1.0",
+  "Locations": [
+    {
+      "Name": "Grants Picnic Ground",
+      "Latitude": -37.887529,
+      "Longitude": 145.369987,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 1
+    },
+    {
+      "Name": "1000 Steps",
+      "Latitude": -37.891008,
+      "Longitude": 145.317125,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 2
+    },
+    {
+      "Name": "Kelly's'",
+      "Latitude": -37.8471334,
+      "Longitude": 145.360202,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 3
+    },
+    {
+      "Name": "Olinda Botanical Gardens",
+      "Latitude": -37.8521661,
+      "Longitude": 145.367394,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 4
+    },
+    {
+      "Name": "Sassafras Village Green",
+      "Latitude": -37.8629059,
+      "Longitude": 145.3531664,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 5
+    },
+    {
+      "Name": "Silvan Dam Lookout",
+      "Latitude": -37.8180749,
+      "Longitude": 145.366881,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 6
+    },
+    {
+      "Name": "Lysterfield Park Main Carpark",
+      "Latitude": -37.965830000000004,
+      "Longitude": 145.30293,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 7
+    },
+    {
+      "Name": "Lysterfield Park Hallam North Rd Carpark",
+      "Latitude": -37.95454,
+      "Longitude": 145.28319000000002,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 8
+    },
+    {
+      "Name": "Birdsland Inner Carpark",
+      "Latitude": -37.9236,
+      "Longitude": 145.33699000000001,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 9
+    },
+    {
+      "Name": "Birdsland Outer Carpark",
+      "Latitude": -37.91877,
+      "Longitude": 145.34155,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 10
+    },
+    {
+      "Name": "Bottom of Glasgow Rd",
+      "Latitude": -37.83155,
+      "Longitude": 145.33374,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 11
+    },
+    {
+      "Name": "The Basin Theatre",
+      "Latitude": -37.85201,
+      "Longitude": 145.33165000000002,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 12
+    },
+    {
+      "Name": "Alfred Nicholas Memorial Gardens",
+      "Latitude": -37.877100000000006,
+      "Longitude": 145.35656,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 13
+    },
+    {
+      "Name": "Ferny Creek Recreation Reserve",
+      "Latitude": -37.875370000000004,
+      "Longitude": 145.34641000000002,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 14
+    },
+    {
+      "Name": "Kalorama Oval",
+      "Latitude": -37.8162,
+      "Longitude": 145.37919000000002,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 15
+    },
+    {
+      "Name": "UFG Station Carpark",
+      "Latitude": -37.89276,
+      "Longitude": 145.3068,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 16
+    },
+    {
+      "Name": "Doongalla Picnic Ground",
+      "Latitude": -37.847460000000005,
+      "Longitude": 145.34371000000002,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 17
+    },
+    {
+      "Name": "One Tree Hill carpark",
+      "Latitude": -37.87238,
+      "Longitude": 145.31907,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 18
+    },
+    {
+      "Name": "Silvan Reservoir Carpark",
+      "Latitude": -37.82473,
+      "Longitude": 145.40423,
+      "Radius": 200.0,
+      "UseStart": true,
+      "Id": 19
+    }
+  ]
+}
