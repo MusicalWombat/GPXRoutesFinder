@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "routes": [
+  "Version": "1.0",
+  "Routes": [
     {
       "Dir": "ap",
       "File": "11.gpx",
@@ -1119,4 +1119,5 @@
       ]
     }
   ]
+
 }
