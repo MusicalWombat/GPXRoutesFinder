@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Regions": [
+    {
+      "Name": "Australia/Victoria/DandenongRanges"
+    },
+    {
+      "Name": "Australia/Victoria/Test"
+    }
+  ]
+}
